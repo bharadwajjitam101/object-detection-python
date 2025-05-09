@@ -74,7 +74,7 @@ If you encounter SSL certificate errors during model download, you can try one o
 
 1. Update your Python packages:
 ```bash
-pip install --upgrade certifi
+pip3 install --upgrade certifi
 ```
 
 2. Install SSL certificates:
@@ -124,10 +124,6 @@ object-detection-python/
 - tensorflow
 - tensorflow-hub
 
-## License
+## Contributor 
 
-[Your chosen license]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
+Jitam Bharadwaj
