@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+opencv-python
+streamlit
+numpy
+pillow
+watchdog
